@@ -1,19 +1,20 @@
 # 个人简历
 
 ## 联系方式
-  手机：19121673357
-	Email：zc14751971207@gmail.com
-	Telegram：t.me/zc1207
-	微信：0015184002031
-  个人信息
-	章超/男/1996/12
-	专科/西南交通大学
-	工作年限：3年
-	GitHub：github.com/zhangchaoToHub
-	个人博客：zzccdjj.xyz/（Error 522，暂时关闭）
-	期望职位：Java工程师
-	期望薪资：税前月薪8.5k~10k
-	期望城市：杭州
+手机：19121673357
+Email：zc14751971207@gmail.com
+Telegram：t.me/zc1207
+微信：0015184002031
+
+## 个人信息
+章超/男/1996/12
+专科/西南交通大学
+工作年限：3年
+GitHub：github.com/zhangchaoToHub
+个人博客：zzccdjj.xyz/（Error 522，暂时关闭）
+期望职位：Java工程师
+期望薪资：税前月薪8.5k~10k
+期望城市：杭州
 
 ## 工作经历
 ### 南京企信科技有限公司（2018年4月 ~ 2019年6月）
