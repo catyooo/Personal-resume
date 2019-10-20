@@ -13,7 +13,6 @@ Telegram：t.me/zc1207<br>
 GitHub：github.com/zhangchaoToHub<br>
 个人博客：zzccdjj.xyz/（Error 522，暂时关闭）<br>
 期望职位：Java工程师<br>
-期望薪资：税前月薪7k及以上
 
 ## 工作经历
 ### 南京企信科技有限公司（2018年4月 ~ 2019年6月）
