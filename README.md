@@ -3,7 +3,7 @@
 ## 联系方式
 手机：191xxxx3357<br>
 Email：zc1475197xxxx@gmail.com<br>
-Telegram：t.me/zc1207<br>
+Telegram：t.me/zcxxxx<br>
 微信：001518400xxxx<br>
 
 ## 个人信息
