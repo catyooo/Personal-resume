@@ -1,10 +1,10 @@
 # 个人简历
 
 ## 联系方式
-手机：191****3357<br>
-Email：zc1475197****@gmail.com<br>
+手机：191xxxx3357<br>
+Email：zc1475197xxxx@gmail.com<br>
 Telegram：t.me/zc1207<br>
-微信：001518400****<br>
+微信：001518400xxxx<br>
 
 ## 个人信息
 章超/男/1996/12<br>
